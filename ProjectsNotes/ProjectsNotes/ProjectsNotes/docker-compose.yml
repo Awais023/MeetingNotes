@@ -1,0 +1,8 @@
+version: '2.1'
+
+services:
+  projectsnotes:
+    image: projectsnotes
+    build:
+      context: .\ProjectsNotes
+      dockerfile: Dockerfile

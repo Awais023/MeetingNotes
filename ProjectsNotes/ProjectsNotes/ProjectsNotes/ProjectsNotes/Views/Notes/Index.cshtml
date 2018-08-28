@@ -1,0 +1,85 @@
+﻿@model IEnumerable<ProjectsNotes.Models.Note>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+    &nbsp;
+    @Html.ActionLink("Sort By Notes Agenda", "Index", new { SortBy = ViewBag.SortAgendaParameter })
+    &nbsp;
+    @Html.ActionLink("Sectioned Separtely", "SectionedSepartely")
+</p>
+<p>
+    @using (Html.BeginForm("Index", "Notes", FormMethod.Get))
+    {
+        <b>Search By:</b> @Html.RadioButton("SearchBy", "Agenda", true) <text> Agenda </text>
+        @Html.RadioButton("SearchBy", "Attendee", true) <text> Attendee </text>
+        @Html.TextBox("Search")<input type="submit" value="Search" />
+    }
+</p>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ProjectID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Agenda)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DateOfNote)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Attendee)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DescriptionOfNote)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Status)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ImagePath)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.ProjectID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Agenda)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DateOfNote)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Attendee)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DescriptionOfNote)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Status)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ImagePath)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.ID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.ID }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.ID })|
+            @Html.ActionLink("Sent", "NoteSent", new { id = item.ID }) |
+            @Html.ActionLink("View Image", "View", new { id = item.ID })|
+            
+        </td>
+    </tr>
+}
+
+</table>

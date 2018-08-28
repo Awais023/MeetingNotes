@@ -1,0 +1,191 @@
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\roslyn\csc.exe
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\roslyn\csc.exe.config
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\roslyn\csc.rsp
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\roslyn\csi.exe
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\roslyn\csi.rsp
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\roslyn\System.AppContext.dll
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\roslyn\vbc.exe
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\roslyn\vbc.exe.config
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\roslyn\vbc.rsp
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\roslyn\VBCSCompiler.exe
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\ProjectsNotes.dll.config
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\ProjectsNotes.dll
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\ProjectsNotes.pdb
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\Antlr3.Runtime.dll
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\EntityFramework.dll
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\EntityFramework.SqlServer.dll
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\Newtonsoft.Json.dll
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\System.Web.Helpers.dll
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\System.Web.Mvc.dll
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\System.Web.Optimization.dll
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\System.Web.Razor.dll
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\System.Web.WebPages.Deployment.dll
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\System.Web.WebPages.dll
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\System.Web.WebPages.Razor.dll
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\WebGrease.dll
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\Antlr3.Runtime.pdb
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\EntityFramework.xml
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\EntityFramework.SqlServer.xml
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\Newtonsoft.Json.xml
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\System.Web.Helpers.xml
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\System.Web.Mvc.xml
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\System.Web.Optimization.xml
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\System.Web.Razor.xml
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\System.Web.WebPages.xml
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\System.Web.WebPages.Deployment.xml
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\bin\System.Web.WebPages.Razor.xml
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\obj\Release\ProjectsNotes.dll
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\obj\Release\ProjectsNotes.pdb
+C:\Users\TK-DTP-0106\documents\visual studio 2017\Projects\ProjectsNotes\ProjectsNotes\obj\Release\ProjectsNotes.csprojResolveAssemblyReference.cache
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\csc.exe
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\csc.exe.config
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\csc.rsp
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\csi.exe
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\csi.rsp
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\System.AppContext.dll
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\vbc.exe
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\vbc.exe.config
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\vbc.rsp
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\VBCSCompiler.exe
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\ProjectsNotes.dll.config
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\ProjectsNotes.dll
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\ProjectsNotes.pdb
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\Antlr3.Runtime.dll
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\EntityFramework.dll
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\EntityFramework.SqlServer.dll
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\Newtonsoft.Json.dll
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\System.Web.Helpers.dll
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\System.Web.Mvc.dll
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\System.Web.Optimization.dll
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\System.Web.Razor.dll
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\System.Web.WebPages.dll
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\System.Web.WebPages.Razor.dll
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\WebGrease.dll
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\Antlr3.Runtime.pdb
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\EntityFramework.xml
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\EntityFramework.SqlServer.xml
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\Newtonsoft.Json.xml
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\System.Web.Helpers.xml
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\System.Web.Mvc.xml
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\System.Web.Optimization.xml
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\System.Web.Razor.xml
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\System.Web.WebPages.xml
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\System.Web.WebPages.Razor.xml
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\obj\Release\ProjectsNotes.csprojAssemblyReference.cache
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\obj\Release\ProjectsNotes.csproj.CoreCompileInputs.cache
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\obj\Release\ProjectsNotes.csproj.CopyComplete
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\obj\Release\ProjectsNotes.dll
+C:\Users\Awais Sultan\Source\Repos\ProjectsNotes\ProjectsNotes\ProjectsNotes\obj\Release\ProjectsNotes.pdb
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\csc.exe
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\csc.exe.config
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\csc.rsp
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\csi.exe
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\csi.rsp
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\System.AppContext.dll
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\vbc.exe
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\vbc.exe.config
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\vbc.rsp
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\VBCSCompiler.exe
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\ProjectsNotes.dll.config
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\ProjectsNotes.dll
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\ProjectsNotes.pdb
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\Antlr3.Runtime.dll
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\EntityFramework.dll
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\EntityFramework.SqlServer.dll
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\Newtonsoft.Json.dll
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\System.Web.Helpers.dll
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\System.Web.Mvc.dll
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\System.Web.Optimization.dll
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\System.Web.Razor.dll
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\System.Web.WebPages.Deployment.dll
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\System.Web.WebPages.dll
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\System.Web.WebPages.Razor.dll
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\WebGrease.dll
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\Antlr3.Runtime.pdb
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\EntityFramework.xml
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\EntityFramework.SqlServer.xml
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\Newtonsoft.Json.xml
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\System.Web.Helpers.xml
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\System.Web.Mvc.xml
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\System.Web.Optimization.xml
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\System.Web.Razor.xml
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\System.Web.WebPages.xml
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\System.Web.WebPages.Deployment.xml
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\bin\System.Web.WebPages.Razor.xml
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\obj\Release\ProjectsNotes.csprojResolveAssemblyReference.cache
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\obj\Release\ProjectsNotes.dll
+C:\Users\TK-DTP-0106\Documents\Visual Studio 2017\Projects\ProjectsNotes\ProjectsNotes\ProjectsNotes\ProjectsNotes\obj\Release\ProjectsNotes.pdb
